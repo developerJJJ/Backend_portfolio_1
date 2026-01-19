@@ -10,9 +10,9 @@
     </parent>
     <groupId>com.jjj</groupId>
     <artifactId>practice</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>practice</name>
-    <description>practice</description>
+    <description>Spring Boot practice</description>
     <url/>
     <licenses>
         <license/>
